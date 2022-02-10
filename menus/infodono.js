@@ -6,7 +6,7 @@ const infodono = (prefix, numerodn) => {
 return`
 
 ╔┅═┅══ ᐃᐁᐃ ══┅═┅═᳀
-║      ⬕•INFO DONO/BOT•⬕
+║      ⬕•INFORMACION DEL PROPIETARIO•⬕
 ╚┅═┅══ ᐃᐁᐃ ══┅═┅═᳀
 
 ╔┅═┅══ ᐃᐁᐃ ══┅═┅═᳀
