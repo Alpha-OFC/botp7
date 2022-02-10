@@ -1,6 +1,6 @@
 const menudono = (prefix) => {
 	return `
-╭⎆──❲ 𝐌𝐄𝐍𝐔 𝐃𝐎𝐍𝐎 ❳──╮
+╭⎆──❲ 𝐌𝐄𝐍𝐔 𝐎𝐖𝐍𝐄𝐑 ❳──╮
 │
 │⎘⃯⃗➢ ${prefix}fotomenu (url)
 │⎘⃯⃗➢ ${prefix}blockcmd  (cmd)
