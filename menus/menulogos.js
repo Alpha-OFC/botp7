@@ -4,8 +4,8 @@ const menulogos = (prefix) => {
 │
 │      > LOGOS <
 │  100% funcionando!! 
-│  qualquer error,
-│  é dos módulos ou termux 
+│  Cualquier error
+│  Es de módulos o Termux
 │ 
 ├⎆──━──⊱⛦⊰──━──╮
 │      ✰•LOGOS TOPS•✰
