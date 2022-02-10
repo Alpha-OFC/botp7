@@ -1,7 +1,7 @@
 {
-  "name": "P7-BOT",
+  "name": "NeKotine-BOT",
   "version": "1.0.0",
-  "description": "Inteligência artificial feita por Aleatory!",
+  "description": "Inteligência artificial echa por Alpha_ØFC!",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -14,15 +14,15 @@
   "keywords": [
     "k"
   ],
-  "author": "Aleatory",
+  "author": "Alpha-ØFC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Josival321/aleatory.git"
+    "url": "git+https://github.com/no-disponible
   },
   "bugs": {
-    "url": "https://github.com/Josival321/aleatory/issues"
+    "url": "https://github.com/no-disponible"
   },
-  "homepage": "https://github.com/Josival321/aleatory/readme",
+  "homepage": "https://github.com/no-disponible",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.3",
